@@ -8,16 +8,16 @@ slug: /start/useful-resources
 
 # Overview
 
-::note Synopsis
+:::note Synopsis
 A list of indexed resources to help you get started or find new tools in the Interchain
 :::
 
 # User
 
 ## General Interchain
-- [Endpoints List (RPC, REST, gRPC, Peers)](https://cosmos.directory/)  { [testnet](https://testnet.cosmos.directory/) }
+- [Endpoints List (RPC, REST, gRPC, Peers)](https://cosmos.directory/)  ( [testnet](https://testnet.cosmos.directory/) )
 - [Mintscan Transaction Explorer](https://www.mintscan.io/)
-- [DAODAO UI & Mutlisigs](https://daodao.zone/) { [testnet](https://testnet.daodao.zone/) } ([source](https://github.com/DA0-DA0/dao-contracts))
+- [DAODAO UI & Mutlisigs](https://daodao.zone/) ( [testnet](https://testnet.daodao.zone/) ) ([source](https://github.com/DA0-DA0/dao-contracts))
 - [Skip:Go Token Routing](https://go.skip.build/)
 - [Map of Zones](https://mapofzones.com/?period=24) - [Source](https://github.com/mapofzones)
 
